@@ -8,13 +8,13 @@ int main() {
   int years = 0;
   std::cout << "First name: ";
   std::cin >> name;
-  std::cout << "Years coding goal: ";
+  std::cout << "oCoding goals (years): ";
   std::cin >> years;
-  std::cout << name << " coding goal: " << years << " years\n";
-  std::cout << "Hello, " << name << "! In the 1st year, I want to learn the basics of programming" 
+  std::cout << name << "Coding goals (years): " << years << " years\n";
+  std::cout << "Hello, " << name << "! In the 1st year, I want to learn the basics of programming " 
             << "and gain a solid understanding of programming concepts.\n"; 
   std::cout << "In the 3rd year, I want to start working on advanced programming concepts.\n";
- std::cout << "In the 5th year, I want to work on building my own projects and contributing to open-source projects.\n"; 
- std::cout << "In the 7th year, I want to work on developing my own software applications and start applying what I've learned in a work environment.\n";
+ std::cout << "In the 5th year, I want to start working on building my own projects and contributing to open-source projects.\n"; 
+ std::cout << "In the 7th year, I want to start developing my own software applications and start applying what I've learned in a work environment.\n";
   return 0;
 }
