@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Assignment 1 — Your Name
+// Assignment 1 — Jesus
 
 int main() {
   std::string name;
