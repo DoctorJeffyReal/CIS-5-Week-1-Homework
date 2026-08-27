@@ -8,7 +8,7 @@ int main() {
   int years = 0;
   std::cout << "First name: ";
   std::cin >> name;
-  std::cout << "oCoding goals (years): ";
+  std::cout << "Coding goals (years): ";
   std::cin >> years;
   std::cout << name << "Coding goals (years): " << years << " years\n";
   std::cout << "Hello, " << name << "! In the 1st year, I want to learn the basics of programming " 
